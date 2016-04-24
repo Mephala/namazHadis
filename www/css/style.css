@@ -1,0 +1,8 @@
+/* Empty. Add your own CSS if you like */
+.tabs .tab-item .icon.statusIcon {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 100%;
+  background-image: url('https://raw.github.com/driftyco/ionic-site/gh-pages/img/docs/mcfly.jpg');
+  background-size:contain;
+}
